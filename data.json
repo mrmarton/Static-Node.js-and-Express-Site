@@ -1,0 +1,54 @@
+
+{
+    "projects": [
+      {
+        "id": "0",
+        "project_name": "Random Quote Generator",
+        "description": "Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live_link": "https://mrmarton.github.io/RandomQG/",
+        "github_link": "https://github.com/mrmarton/Unit1",
+        "image_urls": ["project1_img1.png", "project1_img2.png"]
+    },
+
+    {
+        "id": "1",
+        "project_name": "List Pagination and Filtering" ,
+        "description": "Displaying a long list of items on a web page.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live_link": "https://mrmarton.github.io/list_pagination/",
+        "github_link": "https://github.com/mrmarton/UNIT2",
+        "image_urls": ["project2_img1.png", "project2_img2.png"]
+    },
+
+    {
+        "id": "2",
+        "project_name": "Interactive Form",
+        "description": "Full Stack JavaScript developers create forms to collect information from the users.",
+        "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
+        "live_link": "https://mrmarton.github.io/interactive-form/",
+        "github_link": "https://github.com/mrmarton/Unit--3",
+        "image_urls": ["project3_img1.png", "project3_img2.png"]
+    },
+
+    {
+        "id": "3",
+        "project_name": "OOP Game Show App",
+        "description": "JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase.",
+        "technologies":["JavaScript", "HTML", "CSS"],
+        "live_link": "https://mrmarton.github.io/PHRASE-HUNTER/",
+        "github_link": "https://github.com/mrmarton/UNIT4",
+        "image_urls": ["project4_img1.png", "project4_img2.png"]
+    },
+
+    {
+        "id": "4",
+        "project_name": "Public API Request",
+        "description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages.",
+        "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
+        "live_link": "https://mrmarton.github.io/Public_API/",
+        "github_link": "https://github.com/mrmarton/UNIT-5",
+        "image_urls": ["project5_img1.png", "project5_img2.png"]
+    }
+  ]
+}

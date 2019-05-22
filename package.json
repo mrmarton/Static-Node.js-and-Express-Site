@@ -1,0 +1,18 @@
+{
+  "name": "static_node_and_express_site-v1",
+  "version": "1.0.0",
+  "description": "A portfolio website using Static Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imre Marton",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "colors": "^1.3.3",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}

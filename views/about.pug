@@ -1,0 +1,45 @@
+extends layout.pug
+
+block content
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        //- Add your name.
+        h1.animated.fadeInRight Imre Marton
+        //- Feel free personalize the title below
+        p.lead.text-light.animated.fadeInRight
+          | Full Stack JavaScript Developer
+
+        .portfolio-bio
+          p
+            | Hello! My name is Imre Marton. I am a web developer and life-long learner.
+            | I am self motivated and alway looking for challenges. 
+            | 
+
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        //- Replace the text in the li tags below with your own skills.  At this point, you should be able to list at least ten skills.
+        ul
+          li Express
+          li NPM 
+          li Node
+          li JavaScript
+          li HTML & CSS
+          li API 
+        h6 Contact Info
+
+        //- Add your own contact info
+        ul
+          
+          li imre.developer@gmail.com
+
+        //- Add URLs to the hrefs below to link to your social media accounts.
+        
+        a.button.expanded(href='https://github.com/mrmarton') GitHub
+       
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
